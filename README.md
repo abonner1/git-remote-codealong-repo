@@ -1,1 +1,1 @@
-I'm learning git and it's going well!
+I'm learning git, and it's going well!
